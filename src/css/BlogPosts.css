@@ -1,0 +1,33 @@
+/**
+ * author: Michael McKenzie
+ */
+
+.BlogPosts {
+  padding: 1rem;
+}
+
+.BlogPost-header {
+  display: flex;
+  direction: row;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.BlogPost-footer {
+  font-style: italic;
+  text-align: right;
+}
+
+.BlogPost-footer button {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  outline: inherit;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.BlogPost-footer button:hover {
+  text-decoration: underline;
+}

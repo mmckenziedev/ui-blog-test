@@ -1,0 +1,15 @@
+.BlogList {
+  padding: 1rem;
+}
+
+.BlogList-header {
+  font-size: x-large;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.BlogList-list {
+  list-style: none;
+  margin: 0 auto 1rem auto;
+  padding: 0;
+}
